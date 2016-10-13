@@ -4,6 +4,7 @@ Curriculum Vitae Philippe De Pauw - Waterschoot
 Personalia
 ----------
 
+|---|---|
 |Naam|Philippe De Pauw - Waterschoot|
 |Adres|Industrieweg 232, 9030 Mariakerke (Gent)|
 |Geboortedatum|12-12-1984|
